@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "OxidAcademy\\Birthday\\": "../../../source/modules/wgmv/WidgetTest"
+      "OxidAcademy\\WidgetTest\\": "../../../source/modules/wgmv/WidgetTest"
     }
   }
 }
